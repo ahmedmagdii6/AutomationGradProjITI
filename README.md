@@ -8,6 +8,9 @@ Implemented with Java and Selenium, this project offers automated test scripts d
 - TestNG: Testing framework for organizing and executing tests.
 - Page Object Model (POM): Design pattern for maintaining test scripts and page objects separately.
 
+## Test Cases
+### Valid Registration
+
 
 
 
