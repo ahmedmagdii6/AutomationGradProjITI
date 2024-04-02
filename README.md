@@ -9,7 +9,13 @@ Implemented with Java and Selenium, this project offers automated test scripts d
 - Page Object Model (POM): Design pattern for maintaining test scripts and page objects separately.
 
 ## Test Cases
-### Valid Registration
+
+### ValidRegistration
+
+- Description: Verify that a user can register with valid details.
+- Steps: 1. Navigate to the registration page.
+  1. Fill in the registration form with valid user details.
+  1. Submit the registration form.
 
 
 
