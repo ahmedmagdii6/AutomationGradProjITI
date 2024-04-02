@@ -4,9 +4,9 @@ Implemented with Java and Selenium, this project offers automated test scripts d
 
 ## Table of Contents
 
-Selenium WebDriver: Web automation library for interacting with web elements.
-TestNG: Testing framework for organizing and executing tests.
-Page Object Model (POM): Design pattern for maintaining test scripts and page objects separately.
+- Selenium WebDriver: Web automation library for interacting with web elements.
+- TestNG: Testing framework for organizing and executing tests.
+- Page Object Model (POM): Design pattern for maintaining test scripts and page objects separately.
 
 
 
