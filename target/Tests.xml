@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="RunTest" >
+    <test name="C:\Users\noure\Downloads\nopcommerce\src\test" preserve-order="true" verbose="2">
+        <classes>
+            <class name="register.TC01_RegisterTests"/>
+            <class name="login.TC02_LoginTests"/>
+            <class name="shop.TC03_ShoppingTests"/>
+            <class name="changePassword.TC04_ChangePassword"/>
+
+        </classes>
+    </test>
+</suite>
