@@ -51,7 +51,7 @@ Implemented with Java and Selenium, this project offers automated test scripts d
    
    If you have any questions, suggestions, or issues related to this project, please feel free to contact us. We welcome your feedback and contributions.
 
-   -Email: ahmedmagdy_trust@hotmail.com
+- Email: ahmedmagdy_trust@hotmail.com
 
 
 
