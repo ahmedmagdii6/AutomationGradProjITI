@@ -13,7 +13,8 @@ Implemented with Java and Selenium, this project offers automated test scripts d
 ### ValidRegistration
 
 - Description: Verify that a user can register with valid details.
-- Steps: 1. Navigate to the registration page.
+- Steps:
+  1. Navigate to the registration page.
   1. Fill in the registration form with valid user details.
   1. Submit the registration form.
 
